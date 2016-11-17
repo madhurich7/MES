@@ -1,6 +1,6 @@
-// AngularJS Unit Testing for NF-652
+// AngularJS Unit Testing for MES
 
-describe("Create test cases for NF-652", function() {
+describe("Create test cases for MES", function() {
 
    beforeEach (function () {
 		datasetPanel = Ext.create('MES.view.datasets.DatasetPanel',{});
