@@ -116,7 +116,7 @@ function $StateRefDynamicDirective($state, $timeout) {
 }
 
 
-/
+
 $StateRefActiveDirective.$inject = ['$state', '$stateParams', '$interpolate'];
 function $StateRefActiveDirective($state, $stateParams, $interpolate) {
   return  {
